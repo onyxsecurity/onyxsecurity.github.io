@@ -41,15 +41,14 @@
 .logo {
          margin: 0;
          position: absolute;
-         top: 40%;
+         top: 39%;
          left: 50%;
          transform: translate(-50%, -50%);
          overflow: auto;
          font-size: 13px;
-         width: 333px;
+         width: 200px;
          margin-left: auto;
          margin-right: auto;
-         padding: 3px;
          word-wrap: break-word;
          }
          .links {
