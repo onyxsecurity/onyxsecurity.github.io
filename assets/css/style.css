@@ -10,6 +10,28 @@ font-size: 13px;
 width: 333px;
 color:white;
 }
+
+.servicecard {
+border: 1px solid white;
+padding:5px;
+}
+.card {
+border: 1px solid white;
+padding:5px;
+}
+.user {
+vertical-align:top;
+  display:inline-block;
+  margin-left:5px;
+  margin-top:0px;
+}
+.userdescription {
+vertical-align:top;
+  text-align:right;
+  display:inline-block;
+  margin-left:5px;
+  margin-top:0px;
+}
 .about {
 margin: 0;
 color:white;
@@ -36,4 +58,12 @@ width:600px;
 body {
 font-family: 'Trebuchet MS', sans-serif;
 background: black;
+}
+
+a:link {
+  color: #c90000;
+}
+
+a:visited {
+  color: darkred;
 }
